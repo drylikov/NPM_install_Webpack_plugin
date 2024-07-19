@@ -1,9 +1,3 @@
-[![npm][npm]][npm-url]
-[![deps][deps]][deps-url]
-[![test][test]][test-url]
-[![coverage][cover]][cover-url]
-[![chat][chat]][chat-url]
-
 <div align="center">
   <!-- replace with accurate logo e.g from https://worldvectorlogo.com/ -->
   <a href="https://github.com/webpack/webpack">
@@ -94,40 +88,3 @@ plugins: [
   (e.g. `@cycle/core` will automatically install `rx@*`)
 - [x] Supports Webpack's `resolve.alias` & `resolve.root` configuration.
   (e.g. `require("react")` can alias to `react-lite`)
-
-<h2 align="center">Maintainers</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="150" height="150"
-        src="https://avatars2.githubusercontent.com/u/15182?v=3&s=150">
-        </br>
-        <a href="https://github.com/ericclemmons">Eric Clemmons</a>
-      </td>
-      <td align="center">
-        <img width="150" height="150"
-        src="https://avatars3.githubusercontent.com/u/226692?v=3&s=150">
-        </br>
-        <a href="https://github.com/insin">Jonny Buchanan</a>
-      </td>
-    </tr>
-  <tbody>
-</table>
-
-
-[npm]: https://img.shields.io/npm/v/npm-install-webpack-plugin.svg
-[npm-url]: https://npmjs.com/package/npm-install-webpack-plugin
-
-[deps]: https://david-dm.org/webpack-contrib/npm-install-webpack-plugin.svg
-[deps-url]: https://david-dm.org/webpack-contrib/npm-install-webpack-plugin
-
-[chat]: https://img.shields.io/badge/gitter-webpack%2Fwebpack-brightgreen.svg
-[chat-url]: https://gitter.im/webpack/webpack
-
-[test]: https://travis-ci.org/webpack-contrib/npm-install-webpack-plugin.svg?branch=master
-[test-url]: https://travis-ci.org/webpack-contrib/npm-install-webpack-plugin
-
-[cover]: https://codecov.io/gh/webpack-contrib/npm-install-webpack-plugin/branch/master/graph/badge.svg
-[cover-url]: https://codecov.io/gh/webpack-contrib/npm-install-webpack-plugin
